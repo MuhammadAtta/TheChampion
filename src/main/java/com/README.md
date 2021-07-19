@@ -50,7 +50,7 @@ For using application , seek below software to be available in system
 ```
 JAVA [>=1.8]
 MAVEN 3
-H2
+MySQL
 Eclipse [for code walkthrough]
 
 ```
