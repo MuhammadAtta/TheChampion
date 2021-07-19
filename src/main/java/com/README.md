@@ -1,20 +1,4 @@
 
-## Architectural Thoughts
-
-Before I define the Pre requisites , I want to brief the architecture which I kept in my mind before preparing it. 
-As per my experience I followed 
-
-```
-MicroService Architecture
-
-```
-Where I kept focus on 
-
-```
-PARALLEL DEVELOPMENT , TEAM COLLABORATION , PAIR PROGRAMMING
-
-```
-
 The architecture described in a way where each layer does have their own responsibility. Please see through below.
 
 
