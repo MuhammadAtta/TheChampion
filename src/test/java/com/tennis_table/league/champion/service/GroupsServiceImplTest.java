@@ -37,8 +37,8 @@ public class GroupsServiceImplTest {
     @BeforeEach
 	public void setup()
 	{
-    	player1=new Participant((long) 1, "muhammad", "muhammad.abdelmageed@mail.com", 1, "0020166229813");
-    	player2=new Participant((long) 2, "Mark", "m@mail.com", 2, "+919754258164");
+    	player1=new Participant((long) 1, "muhammad", "m@mail.com", 1, "0123456789");
+    	player2=new Participant((long) 2, "Ahmad", "a@mail.com", 2, "0123456798");
     	
     	participantList.add(player1);
     	participantList.add(player2);
