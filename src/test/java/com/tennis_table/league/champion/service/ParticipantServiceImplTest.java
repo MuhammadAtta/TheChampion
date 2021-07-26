@@ -32,7 +32,7 @@ public class ParticipantServiceImplTest {
     @BeforeEach
 	public void setup()
 	{
-    	participant =new Participant((long) 1, "Muhammad", "muhammad.abdelmageed@mail.com", 1, "+919754258264");
+    	participant =new Participant((long) 1, "Muhammad", "m@mail.com", 1, "0123456789");
     	participantList.add(participant);
 	}
     
